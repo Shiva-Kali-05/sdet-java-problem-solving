@@ -7,7 +7,7 @@ public class P_004_Factorial_Program {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a number");
         int fact = 1;
-        if(sc.hasNextInt())
+        if(sc.hasNextInt())//this will check the input is integer or not
         {
             int num = sc.nextInt();
             System.out.println(num);

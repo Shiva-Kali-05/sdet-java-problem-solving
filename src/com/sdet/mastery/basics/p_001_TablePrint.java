@@ -1,6 +1,6 @@
 package com.sdet.mastery.basics;
 
-public class P_001_TablePrint {
+public class p_001_TablePrint {
     public static void main(String[] args) {
         for (int i = 1; i <=10; i++)
         {

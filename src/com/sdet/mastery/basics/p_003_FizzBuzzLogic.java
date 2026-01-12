@@ -1,6 +1,6 @@
 package com.sdet.mastery.basics;
 
-public class P_003_FizzBuzzLogic {
+public class p_003_FizzBuzzLogic {
     public static void main(String[] args) {
         //Write a program that prints numbers from 1 to 100.
         // However, for multiples of 3, print "Fizz" instead of the number,

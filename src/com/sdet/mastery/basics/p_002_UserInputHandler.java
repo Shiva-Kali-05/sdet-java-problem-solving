@@ -2,7 +2,7 @@ package com.sdet.mastery.basics;
 
 import java.util.Scanner;
 
-public class P_002_UserInputHandler {
+public class p_002_UserInputHandler {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter any number");

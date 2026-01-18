@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4da22552-811f-4216-b8aa-7937f0a80712" name="Changes" comment="Java Coding Test- Basics">
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/Switch_statement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/BreakStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/ContinueStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/MonthNamePrint_Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/PrintNum_Do_While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/Reverse_String_Do_While.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,14 +52,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BreakStatement.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.FizzBuzzLogic.executor": "Run",
     "Application.IntergerNumbers.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaxTwoNumbers.executor": "Run",
+    "Application.MonthNamePrint_Switch.executor": "Run",
     "Application.NameOfTheDay_Switch.executor": "Run",
     "Application.P_004_Factorial_Program.executor": "Run",
     "Application.PositiveNegativeOrZero.executor": "Run",
+    "Application.PrintNum_Do_While.executor": "Debug",
+    "Application.Reverse_String_Do_While.executor": "Run",
     "Application.Switch_statement.executor": "Run",
     "Application.TablePrint.executor": "Run",
     "Application.TypeCastingQ.executor": "Run",
@@ -66,9 +74,9 @@
     "onboarding.tips.debug.path": "C:/Users/Shivakumar Kali/IdeaProjects/sdet-java-problem-solving/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Switch_statement">
-    <configuration name="MaxTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.MaxTwoNumbers" />
+  <component name="RunManager" selected="Application.ContinueStatement">
+    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.BreakStatement" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
@@ -80,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameOfTheDay_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.NameOfTheDay_Switch" />
+    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.ContinueStatement" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PositiveNegativeOrZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.PositiveNegativeOrZero" />
+    <configuration name="MonthNamePrint_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.MonthNamePrint_Switch" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Switch_statement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.Switch_statement" />
+    <configuration name="PrintNum_Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.PrintNum_Do_While" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
@@ -119,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCastingQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.TypeCastingQ" />
+    <configuration name="Reverse_String_Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.Reverse_String_Do_While" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
@@ -134,11 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Switch_statement" />
-        <item itemvalue="Application.NameOfTheDay_Switch" />
-        <item itemvalue="Application.PositiveNegativeOrZero" />
-        <item itemvalue="Application.MaxTwoNumbers" />
-        <item itemvalue="Application.TypeCastingQ" />
+        <item itemvalue="Application.ContinueStatement" />
+        <item itemvalue="Application.BreakStatement" />
+        <item itemvalue="Application.Reverse_String_Do_While" />
+        <item itemvalue="Application.PrintNum_Do_While" />
+        <item itemvalue="Application.MonthNamePrint_Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -175,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768186499200</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Coding Test- Basics">
+      <option name="closed" value="true" />
+      <created>1768671035921</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768671035921</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,5 +199,16 @@
     <MESSAGE value="Factorial Program" />
     <MESSAGE value="Java Coding Test- Basics" />
     <option name="LAST_COMMIT_MESSAGE" value="Java Coding Test- Basics" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/PrintNum_Do_While.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

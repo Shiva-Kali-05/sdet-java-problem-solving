@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4da22552-811f-4216-b8aa-7937f0a80712" name="Changes" comment="Java Coding Test- Basics">
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/BreakStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/ContinueStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/MonthNamePrint_Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/PrintNum_Do_While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestOne/Reverse_String_Do_While.java" afterDir="false" />
+    <list default="true" id="4da22552-811f-4216-b8aa-7937f0a80712" name="Changes" comment="Test One completed">
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_CompareTwoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_Length_validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_Remove_WhiteSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_Reverse_UsingLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_String_toUpperCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sdet/mastery/java/coding/TestTwo/ex_char_count_String.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BreakStatement.executor": "Run",
+    "Application.ContinueStatement.executor": "Run",
     "Application.EvenOdd.executor": "Run",
     "Application.FizzBuzzLogic.executor": "Run",
     "Application.IntergerNumbers.executor": "Run",
@@ -68,19 +71,27 @@
     "Application.TablePrint.executor": "Run",
     "Application.TypeCastingQ.executor": "Run",
     "Application.UserInputHandler.executor": "Run",
+    "Application.ex_01_CharCount_String.executor": "Run",
+    "Application.ex_String_CompareTwoString.executor": "Run",
+    "Application.ex_String_Length_validation.executor": "Run",
+    "Application.ex_String_Palindrome.executor": "Run",
+    "Application.ex_String_Remove_WhiteSpaces.executor": "Run",
+    "Application.ex_String_Reverse_UsingLoop.executor": "Run",
+    "Application.ex_String_toUpperCase.executor": "Run",
+    "Application.ex_char_count_String.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Shivakumar Kali/IdeaProjects/sdet-java-problem-solving/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ContinueStatement">
-    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.BreakStatement" />
+  <component name="RunManager" selected="Application.ex_String_Palindrome">
+    <configuration name="ex_String_CompareTwoString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestTwo.ex_String_CompareTwoString" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestOne.*" />
+          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.ContinueStatement" />
+    <configuration name="ex_String_Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestTwo.ex_String_Palindrome" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestOne.*" />
+          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MonthNamePrint_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.MonthNamePrint_Switch" />
+    <configuration name="ex_String_Remove_WhiteSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestTwo.ex_String_Remove_WhiteSpaces" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestOne.*" />
+          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintNum_Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.PrintNum_Do_While" />
+    <configuration name="ex_String_Reverse_UsingLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestTwo.ex_String_Reverse_UsingLoop" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestOne.*" />
+          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_String_Do_While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestOne.Reverse_String_Do_While" />
+    <configuration name="ex_String_toUpperCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sdet.mastery.java.coding.TestTwo.ex_String_toUpperCase" />
       <module name="sdet-java-problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestOne.*" />
+          <option name="PATTERN" value="com.sdet.mastery.java.coding.TestTwo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContinueStatement" />
-        <item itemvalue="Application.BreakStatement" />
-        <item itemvalue="Application.Reverse_String_Do_While" />
-        <item itemvalue="Application.PrintNum_Do_While" />
-        <item itemvalue="Application.MonthNamePrint_Switch" />
+        <item itemvalue="Application.ex_String_Palindrome" />
+        <item itemvalue="Application.ex_String_Remove_WhiteSpaces" />
+        <item itemvalue="Application.ex_String_Reverse_UsingLoop" />
+        <item itemvalue="Application.ex_String_CompareTwoString" />
+        <item itemvalue="Application.ex_String_toUpperCase" />
       </list>
     </recent_temporary>
   </component>
@@ -191,14 +202,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768671035921</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test One completed">
+      <option name="closed" value="true" />
+      <created>1768737408750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768737408750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Java Basics" />
     <MESSAGE value="Factorial Program" />
     <MESSAGE value="Java Coding Test- Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Coding Test- Basics" />
+    <MESSAGE value="Test One completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test One completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
